@@ -3,6 +3,8 @@
 > [!CAUTION]
 > The current version of this program is unstable, has bugs and is not ready for use.
 
+v0.4 released! Scrolling implemented.
+
 ### Installation
 ```shell
 git clone https://github.com/Ad4ndi/mew.git
@@ -21,6 +23,4 @@ mew [file]
 
 ### Bugs (TODO)
 
-- No line scrolling
-- ASCII block alignment issue
 - Unoptimized file loading (full)
